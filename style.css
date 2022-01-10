@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    color: green;
+    text-align: center;
+    font-size: 50px;
+}
+.bangladesh-info{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+   
+
+.bangladesh-info img{
+    width: 60%;
+}
+.link-btn{
+    color: white;
+    text-decoration: none;
+    background-image:linear-gradient(145deg, red,green,red);
+    padding: 10px 25px;
+    
+}
+span{
+    color: red;
+}
+.all-div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    justify-content: space-around;
+    margin: auto;
+}
+.all-div img{
+    width: 50%;
+}
+.division{
+    width: 200px;
+    height: 300px;
+    background-color: green;
+    margin-top: 40px;
+    box-shadow: 10px 10px 50px red ;
+    border-radius: 10px;
+}
