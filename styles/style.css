@@ -10,6 +10,7 @@ body{
 .bangladesh-info{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     width: 80%;
     margin: auto;
 }
@@ -39,11 +40,12 @@ span{
     width: 50%;
 }
 .division{
-    opacity: 80%;
+    opacity: 75%;
     width: 200px;
     height: 350px;
     background-color: green;
     margin-top: 40px;
+    padding: 5px 10px;
     box-shadow: 10px 10px 50px red ;
     border-radius: 10px;
 }
